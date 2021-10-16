@@ -7,20 +7,23 @@ This analysis was used to compare and contrast the use of Pyber, a ride sharing 
 
 ## Results
 Rides per City Type
+
 ![image](https://user-images.githubusercontent.com/86981530/137597253-04350a15-c8aa-48c4-936f-e44791f3cdb3.png)
-There are more rides in the city than any other city type.
 
 Fares for each city type.
+
 ![Fig3](https://user-images.githubusercontent.com/86981530/137597307-69ecec8f-1b55-4b1b-af35-4ef9341671e4.png)
-The rural has the highest fare but also the highest range of fares.
 
 Driver Count for each city type.
+
 ![Fig4](https://user-images.githubusercontent.com/86981530/137597351-a8824a3d-2301-4739-958a-f92cb9d73262.png)
 
 Percentage of Total Drivers by city type.
+
 ![Fig7](https://user-images.githubusercontent.com/86981530/137597376-ca42d107-d312-47b5-b13f-04ba97ffe303.png)
 
 Fare Summary
+
 ![Pyber_fare_summary](https://user-images.githubusercontent.com/86981530/137597392-18c2df8d-ac1e-44e9-89ce-fa987931c23d.png)
 
 
