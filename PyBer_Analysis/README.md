@@ -7,7 +7,7 @@ This analysis was used to compare and contrast the use of Pyber, a ride sharing 
 
 ## Results
 Graph showing the total number of rides per city type. 
-![image](https://user-images.githubusercontent.com/86981530/137597253-04350a15-c8aa-48c4-936f-e44791f3cdb3.png)
+                                                    ![image](https://user-images.githubusercontent.com/86981530/137597253-04350a15-c8aa-48c4-936f-e44791f3cdb3.png)
 
 Fares for each city type.
 ![Fig3](https://user-images.githubusercontent.com/86981530/137597307-69ecec8f-1b55-4b1b-af35-4ef9341671e4.png)
