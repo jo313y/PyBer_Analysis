@@ -19,22 +19,23 @@ It can be shown that the fares for the rural city have the highest range and are
 
 
 
-The driver count 
+The city has the highest driver count by far.
 
 ![Fig4](https://user-images.githubusercontent.com/86981530/137597351-a8824a3d-2301-4739-958a-f92cb9d73262.png)
 
-Percentage of Total Drivers by city type.
 
+The percentage of drivers who drive for Pyber based on the city type shows that the city has the most drivers.
 ![Fig7](https://user-images.githubusercontent.com/86981530/137597376-ca42d107-d312-47b5-b13f-04ba97ffe303.png)
 
-Fare Summary
 
+We can see by the Weekly Fare summary that the Urban fares are the highest consistently. There is a dramatic drop in the fares in April though.
 ![Pyber_fare_summary](https://user-images.githubusercontent.com/86981530/137597392-18c2df8d-ac1e-44e9-89ce-fa987931c23d.png)
 
 
 ## Summary
 
-It's not suprising that there are more rides in the city than in the suburban and rural areas.
-It is surprising, how much the fares overlap for each city type 
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+It isn't surprising that there are more rides in the city than in the rural areas. What is surprising, is the range of fares for the rural areas. Generally it is higher, but it has the highest range of fares as well. It would be a good idea to create an action plan to make sure the price of the rides are more consistent. 
+
+The cost of the fares for the suburban and urban cities are not significantly different. With the data shown, suburban drivers are on average, having a higher fare and are more efficient. It would be a good idea to expand into more suburban areas to increase overall revenue for the company.
+
+The city has the highest number of drivers, which makes sense because of the number of rides. However, the suburban drivers is 60% less than the city and still creates more than half of the total fares than the city. This means there are too many drivers in the city. There may be a need to limit the amount of drivers, or create expectations for the drivers to make sure they are providing the same high quality service throughout the city.
